@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: barry42069/pe-frontend
+          tags: barry42069/pe-fronten
